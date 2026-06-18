@@ -1,0 +1,7 @@
+df = pd.DataFrame({
+    'JOB_ID':['IT_PROG','HR_REP','SA_MAN','MK_MAN'],
+    'JOB_TITLE':['Programmer',
+                 'Human Resources Representative',
+                 'Sales Manager',
+                 'Marketing Manager']
+})
